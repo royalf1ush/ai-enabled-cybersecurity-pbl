@@ -127,10 +127,7 @@ python -m evals.run_eval --models baseline
 
 ## Team
 
-- **Gael Guzmán**
-- **Diego Ulises**
-- **Yangingyi**
-- **Sekito Shinjo**
+- **Jingyi Yang**
 
 ---
 

@@ -143,7 +143,7 @@ See [docs/responsible-innovation.md](docs/responsible-innovation.md) for detaile
 
 ## Contributors / Team
 
-- **Gael Guzmán**  
+- **Jingyi Yang**  
 
 ---
 
