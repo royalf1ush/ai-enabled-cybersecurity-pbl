@@ -339,11 +339,11 @@ patterns:
 
 ## Source Code
 
-- **Runner:** [`sql_injection_detector/runner.py`](https://github.com/royalf1ush/ai-enabled-cybersecurity-pbl/blob/main/sql_injection_detector/runner.py)
-- **Detectors:** [`sql_injection_detector/detectors/`](https://github.com/royalf1ush/ai-enabled-cybersecurity-pbl/tree/main/sql_injection_detector/detectors)
-- **Patterns:** [`sql_injection_detector/patterns/`](https://github.com/royalf1ush/ai-enabled-cybersecurity-pbl/tree/main/sql_injection_detector/patterns)
-- **Validation Reports:** [`sql_injection_detector/documents/`](https://github.com/royalf1ush/ai-enabled-cybersecurity-pbl/tree/main/sql_injection_detector/documents)
+- **Runner:** [`sql_injection_detector/runner.py`](https://github.com/royalf1ush/cinderveil/blob/main/sql_injection_detector/runner.py)
+- **Detectors:** [`sql_injection_detector/detectors/`](https://github.com/royalf1ush/cinderveil/tree/main/sql_injection_detector/detectors)
+- **Patterns:** [`sql_injection_detector/patterns/`](https://github.com/royalf1ush/cinderveil/tree/main/sql_injection_detector/patterns)
+- **Validation Reports:** [`sql_injection_detector/documents/`](https://github.com/royalf1ush/cinderveil/tree/main/sql_injection_detector/documents)
 
 ---
 
-*MIT Blended AI+X PBL - Track 3: AI-Enabled Cybersecurity*
+*MIT Blended AI+X PBL - Track 3: Cinderveil*

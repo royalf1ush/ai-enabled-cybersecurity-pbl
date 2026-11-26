@@ -1,6 +1,6 @@
 # Validation Results
 
-**MIT Blended AI+X Program - Track 3: AI-Enabled Cybersecurity**  
+**MIT Blended AI+X Program - Track 3: Cinderveil**  
 **Scan Date:** January 2026
 
 ---
@@ -190,4 +190,4 @@ docs/archive/reports/validation/
 
 ---
 
-*MIT Blended AI+X PBL - AI-Enabled Cybersecurity*
+*MIT Blended AI+X PBL - Cinderveil*

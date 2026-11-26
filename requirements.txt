@@ -1,5 +1,5 @@
 # Security Scanning Pipeline - Dependencies
-# MIT Blended AI+X PBL - AI-Enabled Cybersecurity
+# MIT Blended AI+X PBL - Cinderveil
 
 # Core detection tools
 codespell>=2.2.0

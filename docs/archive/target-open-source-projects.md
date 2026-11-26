@@ -1,13 +1,13 @@
 # Target Open-Source Projects for Security Analysis
 
-**MIT Blended AI+X Program - Track 3: AI-Enabled Cybersecurity**  
+**MIT Blended AI+X Program - Track 3: Cinderveil**  
 **Living Document - Last Updated: Week 4**
 
 ---
 
 ## Overview
 
-This document tracks open-source projects selected for security vulnerability analysis as part of the AI-Enabled Cybersecurity PBL. Projects are categorized by their purpose and analysis status.
+This document tracks open-source projects selected for security vulnerability analysis as part of the Cinderveil PBL. Projects are categorized by their purpose and analysis status.
 
 ### Selection Criteria
 
@@ -381,4 +381,4 @@ Insights from these projects inform:
 
 ---
 
-*Living Document - MIT Blended AI+X PBL - AI-Enabled Cybersecurity*
+*Living Document - MIT Blended AI+X PBL - Cinderveil*

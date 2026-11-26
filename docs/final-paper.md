@@ -1,7 +1,7 @@
 # Hybrid Vulnerability Detection: Combining Deterministic Scanners with LLM-Assisted Remediation
 
-**MIT Blended AI+X PBL – AI-Enabled Cybersecurity (Anthropic Project)**  
-**Track 3: AI-Enabled Cybersecurity**  
+**MIT Blended AI+X PBL – Cinderveil (Anthropic Project)**  
+**Track 3: Cinderveil**  
 **January 2026**
 
 ---
@@ -406,4 +406,4 @@ The tension between detection breadth and precision will persist as software sys
 
 ---
 
-*Paper prepared as part of the MIT Blended AI+X Program – Track 3: AI-Enabled Cybersecurity (Anthropic Project)*
+*Paper prepared as part of the MIT Blended AI+X Program – Track 3: Cinderveil (Anthropic Project)*

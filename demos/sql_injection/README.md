@@ -1,7 +1,7 @@
 # SQL Injection Vulnerability Demonstration
 
 **MIT Blended AI+X Program - Week 3**  
-**Track 3: AI-Enabled Cybersecurity**
+**Track 3: Cinderveil**
 
 ---
 
@@ -177,4 +177,4 @@ Never attempt SQL injection attacks against systems you do not own or have expli
 
 ---
 
-*Week 3 - MIT Blended AI+X PBL - AI-Enabled Cybersecurity*
+*Week 3 - MIT Blended AI+X PBL - Cinderveil*

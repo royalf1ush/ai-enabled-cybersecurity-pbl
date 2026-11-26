@@ -1,7 +1,7 @@
 # Publication Readiness Checklist
 
-**MIT Blended AI+X PBL – AI-Enabled Cybersecurity (Anthropic Project)**  
-**Track 3: AI-Enabled Cybersecurity**  
+**MIT Blended AI+X PBL – Cinderveil (Anthropic Project)**  
+**Track 3: Cinderveil**  
 **Date:** January 2026
 
 ---
@@ -74,4 +74,4 @@ All checklist items have been verified. The project is **ready for publication**
 
 ---
 
-*Checklist prepared for MIT Blended AI+X PBL – Track 3: AI-Enabled Cybersecurity*
+*Checklist prepared for MIT Blended AI+X PBL – Track 3: Cinderveil*

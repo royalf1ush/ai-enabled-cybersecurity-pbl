@@ -1,7 +1,7 @@
 # Week 1 Notes — Git & Software Vulnerabilities
 
 > **Week 1 Learning Journal**  
-> MIT Blended AI+X Program — Track 3: AI-Enabled Cybersecurity
+> MIT Blended AI+X Program — Track 3: Cinderveil
 
 ---
 

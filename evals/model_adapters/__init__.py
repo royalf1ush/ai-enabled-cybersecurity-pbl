@@ -1,7 +1,7 @@
 """
 Model adapters for evaluation harness.
 
-MIT Blended AI+X PBL - AI-Enabled Cybersecurity
+MIT Blended AI+X PBL - Cinderveil
 """
 
 from .base_adapter import BaseAdapter

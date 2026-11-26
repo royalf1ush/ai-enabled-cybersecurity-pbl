@@ -1,6 +1,6 @@
 # Week 5: Evaluation Findings & Recommendations
 
-**MIT Blended AI+X PBL – AI-Enabled Cybersecurity (Anthropic Project)**  
+**MIT Blended AI+X PBL – Cinderveil (Anthropic Project)**  
 **Date:** January 2026
 
 ---

@@ -1,6 +1,6 @@
 # Week 2: Security Scanning Pipeline
 
-**MIT Blended AI+X PBL - AI-Enabled Cybersecurity (Track 3)**
+**MIT Blended AI+X PBL - Cinderveil (Track 3)**
 
 ---
 
@@ -273,7 +273,7 @@ If no LLM provider is available, the pipeline uses built-in templates:
 
 ```bash
 # From the project root
-cd ai-enabled-cybersecurity-pbl
+cd cinderveil
 
 # Install dependencies
 pip install -r requirements.txt
@@ -430,4 +430,4 @@ With `--check-tools`:
 
 ---
 
-*Week 2 - MIT Blended AI+X PBL - AI-Enabled Cybersecurity*
+*Week 2 - MIT Blended AI+X PBL - Cinderveil*

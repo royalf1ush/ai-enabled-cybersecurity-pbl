@@ -335,9 +335,9 @@ These demonstrations are for **educational and defensive purposes only**. The te
 
 ## Source Code
 
-- **SQL Injection Demo:** [`demos/sql_injection/`](https://github.com/royalf1ush/ai-enabled-cybersecurity-pbl/tree/main/demos/sql_injection)
-- **Secret Exposure Demo:** [`demos/secret_exposure/`](https://github.com/royalf1ush/ai-enabled-cybersecurity-pbl/tree/main/demos/secret_exposure)
+- **SQL Injection Demo:** [`demos/sql_injection/`](https://github.com/royalf1ush/cinderveil/tree/main/demos/sql_injection)
+- **Secret Exposure Demo:** [`demos/secret_exposure/`](https://github.com/royalf1ush/cinderveil/tree/main/demos/secret_exposure)
 
 ---
 
-*MIT Blended AI+X PBL - Track 3: AI-Enabled Cybersecurity*
+*MIT Blended AI+X PBL - Track 3: Cinderveil*

@@ -1,6 +1,6 @@
 # Responsible Innovation in Vulnerability Detection Tools
 
-**MIT Blended AI+X PBL – AI-Enabled Cybersecurity (Anthropic Project)**
+**MIT Blended AI+X PBL – Cinderveil (Anthropic Project)**
 **Responsible Innovation**
 **Date:** January 2026
 
@@ -190,4 +190,4 @@ Responsible innovation is not a destination but a practice—a set of questions 
 
 ---
 
-*MIT Blended AI+X PBL, Track 3: AI-Enabled Cybersecurity*
+*MIT Blended AI+X PBL, Track 3: Cinderveil*

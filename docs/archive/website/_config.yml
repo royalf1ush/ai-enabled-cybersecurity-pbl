@@ -1,9 +1,9 @@
 # Site settings
-title: AI-Enabled Cybersecurity
+title: Cinderveil
 description: >-
-  MIT Blended AI+X PBL Project - Track 3: AI-Enabled Cybersecurity.
+  MIT Blended AI+X PBL Project - Track 3: Cinderveil.
   Building responsible vulnerability detection tools with LLM integration.
-baseurl: "/ai-enabled-cybersecurity-pbl"
+baseurl: "/cinderveil"
 url: ""
 
 # Theme

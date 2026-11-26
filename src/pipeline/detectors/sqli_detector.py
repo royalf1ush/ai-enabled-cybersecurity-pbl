@@ -7,7 +7,7 @@ Detects potential SQL injection vulnerabilities through static pattern analysis:
 - ORM raw query methods
 - Multi-language support (Python, JavaScript, PHP)
 
-MIT Blended AI+X PBL - AI-Enabled Cybersecurity
+MIT Blended AI+X PBL - Cinderveil
 """
 
 import re

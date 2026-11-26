@@ -233,10 +233,10 @@ reports/week4/
 
 ## Source Data
 
-- **Validation Results Document:** [`docs/week4-results.md`](https://github.com/royalf1ush/ai-enabled-cybersecurity-pbl/blob/main/docs/week4-results.md)
-- **Generated Reports:** [`reports/week4/`](https://github.com/royalf1ush/ai-enabled-cybersecurity-pbl/tree/main/reports/week4)
-- **Target Configuration:** [`configs/targets.yaml`](https://github.com/royalf1ush/ai-enabled-cybersecurity-pbl/blob/main/configs/targets.yaml)
+- **Validation Results Document:** [`docs/week4-results.md`](https://github.com/royalf1ush/cinderveil/blob/main/docs/week4-results.md)
+- **Generated Reports:** [`reports/week4/`](https://github.com/royalf1ush/cinderveil/tree/main/reports/week4)
+- **Target Configuration:** [`configs/targets.yaml`](https://github.com/royalf1ush/cinderveil/blob/main/configs/targets.yaml)
 
 ---
 
-*MIT Blended AI+X PBL - Track 3: AI-Enabled Cybersecurity*
+*MIT Blended AI+X PBL - Track 3: Cinderveil*

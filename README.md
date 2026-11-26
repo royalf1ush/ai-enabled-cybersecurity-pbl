@@ -1,16 +1,14 @@
-# AI-Enabled Cybersecurity (PBL)
+# Cinderveil
 
-## MIT Blended AI+X Program  
-**Project-Based Learning: AI in Cybersecurity – Anthropic Project**  
-**Track 3: AI-Enabled Cybersecurity**
+**Hybrid vulnerability detection with LLM-assisted remediation**
+
+Cinderveil is a defensive security toolkit that pairs deterministic scanners with LLM-generated explanations. It finds exposed secrets, SQL injection patterns, typos, and risky dependencies, then turns each finding into clear, actionable remediation guidance—without sending raw credentials to a model.
 
 ---
 
 ## Project Overview
 
-This repository contains the work for the **AI in Cybersecurity Project-Based Learning (PBL)** as part of the **MIT Blended AI+X Program**.
-
-The project explores how **Large Language Models (LLMs)** can be used to **assist defensive cybersecurity tasks**, such as identifying software vulnerabilities, supporting security audits, and automating parts of penetration testing workflows—while carefully considering the **risks, limitations, and ethical concerns** introduced by AI systems.
+Cinderveil explores how **Large Language Models (LLMs)** can support defensive security work such as vulnerability discovery, security audits, and remediation planning, while accounting for the **risks, limitations, and ethical concerns** that AI systems introduce. It was originally developed in the MIT Blended AI+X Program (Track 3).
 
 ---
 
@@ -46,7 +44,7 @@ The project explores how **Large Language Models (LLMs)** can be used to **assis
 ## Repository Structure
 
 ```
-ai-enabled-cybersecurity-pbl/
+cinderveil/
 │
 ├── .github/workflows/       # CI/CD workflows
 │   └── security-scan.yml    # Week 4: Self-scan on PRs
@@ -113,8 +111,8 @@ python -m pipeline.main --check-tools
 
 ```bash
 # Clone and install
-git clone https://github.com/royalf1ush/ai-enabled-cybersecurity-pbl.git
-cd ai-enabled-cybersecurity-pbl
+git clone https://github.com/royalf1ush/cinderveil.git
+cd cinderveil
 pip install -r requirements.txt
 
 # Run the scanner on a local directory

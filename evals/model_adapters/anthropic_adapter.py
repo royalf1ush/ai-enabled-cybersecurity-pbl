@@ -1,7 +1,7 @@
 """
 Anthropic Claude adapter for API-based evaluation.
 
-MIT Blended AI+X PBL - AI-Enabled Cybersecurity
+MIT Blended AI+X PBL - Cinderveil
 """
 
 import os

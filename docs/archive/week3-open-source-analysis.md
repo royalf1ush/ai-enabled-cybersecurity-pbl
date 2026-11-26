@@ -1,6 +1,6 @@
 # Week 3: Open-Source Repository Vulnerability Analysis
 
-**MIT Blended AI+X Program - Track 3: AI-Enabled Cybersecurity**
+**MIT Blended AI+X Program - Track 3: Cinderveil**
 
 ---
 
@@ -320,4 +320,4 @@ This analysis informs the Week 2 pipeline in several ways:
 
 ---
 
-*Week 3 - MIT Blended AI+X PBL - AI-Enabled Cybersecurity*
+*Week 3 - MIT Blended AI+X PBL - Cinderveil*

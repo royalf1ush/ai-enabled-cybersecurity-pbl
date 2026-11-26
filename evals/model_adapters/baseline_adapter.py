@@ -1,7 +1,7 @@
 """
 Baseline adapter using deterministic detectors only.
 
-MIT Blended AI+X PBL - AI-Enabled Cybersecurity
+MIT Blended AI+X PBL - Cinderveil
 """
 
 import re

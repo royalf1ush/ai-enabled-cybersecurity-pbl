@@ -1,6 +1,6 @@
 # Week 5: Cybersecurity-Relevant LLM Evaluations Research
 
-**MIT Blended AI+X PBL – AI-Enabled Cybersecurity (Anthropic Project)**  
+**MIT Blended AI+X PBL – Cinderveil (Anthropic Project)**  
 **Date:** January 2026
 
 ---

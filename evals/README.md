@@ -1,6 +1,6 @@
 # Week 5 Evaluation Framework
 
-**MIT Blended AI+X PBL – AI-Enabled Cybersecurity**
+**MIT Blended AI+X PBL – Cinderveil**
 
 Lightweight evaluation harness for measuring LLM ability to classify security vulnerabilities and reduce false positives.
 
