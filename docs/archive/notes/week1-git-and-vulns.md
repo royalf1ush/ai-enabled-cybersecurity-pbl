@@ -15,7 +15,7 @@
 - **Pull Requests:** Collaborative code review before merging
 
 ### Key Takeaways
-- Feature branches (e.g., `week1/gael-git-setup`) isolate changes and reduce merge conflicts
+- Feature branches (e.g., `week1/jingyi-yang-git-setup`) isolate changes and reduce merge conflicts
 - Descriptive commit messages help collaborators understand changes
 - Pull requests enable code review and discussion before integration
 - A clean commit history aids debugging and project maintenance
