@@ -1,7 +1,6 @@
 # SQL Injection Detector - Improvement Report
 
 **Date:** 2026-01-21
-**Author:** Jingyi Yang
 **Scope:** Full SQLi-Labs Test Suite (69 Less-* directories, 121 PHP files)
 
 ---

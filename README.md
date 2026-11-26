@@ -141,12 +141,6 @@ See [docs/responsible-innovation.md](docs/responsible-innovation.md) for detaile
 
 ---
 
-## Contributors / Team
-
-- **Jingyi Yang**  
-
----
-
 ## License & Usage
 
 This repository is intended for **academic use** within the MIT Blended AI+X Program.  

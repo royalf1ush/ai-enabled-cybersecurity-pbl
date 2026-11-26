@@ -125,12 +125,6 @@ python -m evals.run_eval --models baseline
 
 ---
 
-## Team
-
-- **Jingyi Yang**
-
----
-
 ## Ethical Notice
 
 This project is conducted strictly for **educational and defensive purposes**. All tools developed:
