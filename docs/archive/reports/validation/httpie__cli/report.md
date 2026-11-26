@@ -2,7 +2,7 @@
 
 **Scan ID:** `scan-20260107-070254-b88725d6`  
 **Timestamp:** 2026-01-07T07:02:54.793035Z  
-**Target:** `C:\Users\gguzm\AppData\Local\Temp\scan_httpie__cli_m991w987\cli`
+**Target:** `C:\Users\jingyi_yang\AppData\Local\Temp\scan_httpie__cli_m991w987\cli`
 
 ---
 
@@ -36,7 +36,7 @@
 
 - **Severity:** 🟠 High
 - **Detector:** `regex-patterns`
-- **Location:** `C:\Users\gguzm\AppData\Local\Temp\scan_httpie__cli_m991w987\cli\httpie\ssl_.py:32`
+- **Location:** `C:\Users\jingyi_yang\AppData\Local\Temp\scan_httpie__cli_m991w987\cli\httpie\ssl_.py:32`
 - **Match (redacted):** `Opti*****str]`
 
 **Description:** Detected potential secret matching Password/Secret pattern
@@ -47,7 +47,7 @@
 
 - **Severity:** 🟠 High
 - **Detector:** `regex-patterns`
-- **Location:** `C:\Users\gguzm\AppData\Local\Temp\scan_httpie__cli_m991w987\cli\httpie\ssl_.py:65`
+- **Location:** `C:\Users\jingyi_yang\AppData\Local\Temp\scan_httpie__cli_m991w987\cli\httpie\ssl_.py:65`
 - **Match (redacted):** `cert********word`
 
 **Description:** Detected potential secret matching Password/Secret pattern
@@ -58,7 +58,7 @@
 
 - **Severity:** 🟠 High
 - **Detector:** `regex-patterns`
-- **Location:** `C:\Users\gguzm\AppData\Local\Temp\scan_httpie__cli_m991w987\cli\tests\test_auth_plugins.py:12`
+- **Location:** `C:\Users\jingyi_yang\AppData\Local\Temp\scan_httpie__cli_m991w987\cli\tests\test_auth_plugins.py:12`
 - **Match (redacted):** `********`
 
 **Description:** Detected potential secret matching Password/Secret pattern
@@ -69,7 +69,7 @@
 
 - **Severity:** 🟠 High
 - **Detector:** `regex-patterns`
-- **Location:** `C:\Users\gguzm\AppData\Local\Temp\scan_httpie__cli_m991w987\cli\httpie\cli\argparser.py:293`
+- **Location:** `C:\Users\jingyi_yang\AppData\Local\Temp\scan_httpie__cli_m991w987\cli\httpie\cli\argparser.py:293`
 - **Match (redacted):** `url.****word`
 
 **Description:** Detected potential secret matching Password/Secret pattern
@@ -80,7 +80,7 @@
 
 - **Severity:** 🟠 High
 - **Detector:** `regex-patterns`
-- **Location:** `C:\Users\gguzm\AppData\Local\Temp\scan_httpie__cli_m991w987\cli\httpie\cli\argparser.py:350`
+- **Location:** `C:\Users\jingyi_yang\AppData\Local\Temp\scan_httpie__cli_m991w987\cli\httpie\cli\argparser.py:350`
 - **Match (redacted):** `cred********lue,`
 
 **Description:** Detected potential secret matching Password/Secret pattern
@@ -91,7 +91,7 @@
 
 - **Severity:** 🟡 Medium
 - **Detector:** `regex-patterns`
-- **Location:** `C:\Users\gguzm\AppData\Local\Temp\scan_httpie__cli_m991w987\cli\tests\client_certs\client.crt:1`
+- **Location:** `C:\Users\jingyi_yang\AppData\Local\Temp\scan_httpie__cli_m991w987\cli\tests\client_certs\client.crt:1`
 - **Match (redacted):** `----********----`
 
 **Description:** Detected potential secret matching Certificate pattern
@@ -102,7 +102,7 @@
 
 - **Severity:** 🔴 Critical
 - **Detector:** `regex-patterns`
-- **Location:** `C:\Users\gguzm\AppData\Local\Temp\scan_httpie__cli_m991w987\cli\tests\client_certs\client.key:1`
+- **Location:** `C:\Users\jingyi_yang\AppData\Local\Temp\scan_httpie__cli_m991w987\cli\tests\client_certs\client.key:1`
 - **Match (redacted):** `****`
 
 **Description:** Detected potential secret matching Private Key pattern
@@ -113,7 +113,7 @@
 
 - **Severity:** 🟡 Medium
 - **Detector:** `regex-patterns`
-- **Location:** `C:\Users\gguzm\AppData\Local\Temp\scan_httpie__cli_m991w987\cli\tests\client_certs\client.pem:1`
+- **Location:** `C:\Users\jingyi_yang\AppData\Local\Temp\scan_httpie__cli_m991w987\cli\tests\client_certs\client.pem:1`
 - **Match (redacted):** `----********----`
 
 **Description:** Detected potential secret matching Certificate pattern
@@ -124,7 +124,7 @@
 
 - **Severity:** 🔴 Critical
 - **Detector:** `regex-patterns`
-- **Location:** `C:\Users\gguzm\AppData\Local\Temp\scan_httpie__cli_m991w987\cli\tests\client_certs\client.pem:32`
+- **Location:** `C:\Users\jingyi_yang\AppData\Local\Temp\scan_httpie__cli_m991w987\cli\tests\client_certs\client.pem:32`
 - **Match (redacted):** `****`
 
 **Description:** Detected potential secret matching Private Key pattern
@@ -135,7 +135,7 @@
 
 - **Severity:** 🔴 Critical
 - **Detector:** `regex-patterns`
-- **Location:** `C:\Users\gguzm\AppData\Local\Temp\scan_httpie__cli_m991w987\cli\tests\client_certs\password_protected\client.key:1`
+- **Location:** `C:\Users\jingyi_yang\AppData\Local\Temp\scan_httpie__cli_m991w987\cli\tests\client_certs\password_protected\client.key:1`
 - **Match (redacted):** `****`
 
 **Description:** Detected potential secret matching Private Key pattern
@@ -146,7 +146,7 @@
 
 - **Severity:** 🟡 Medium
 - **Detector:** `regex-patterns`
-- **Location:** `C:\Users\gguzm\AppData\Local\Temp\scan_httpie__cli_m991w987\cli\tests\client_certs\password_protected\client.pem:1`
+- **Location:** `C:\Users\jingyi_yang\AppData\Local\Temp\scan_httpie__cli_m991w987\cli\tests\client_certs\password_protected\client.pem:1`
 - **Match (redacted):** `----********----`
 
 **Description:** Detected potential secret matching Certificate pattern
@@ -159,7 +159,7 @@
 
 - **Severity:** 🟢 Low
 - **Detector:** `codespell`
-- **Location:** `C:\Users\gguzm\AppData\Local\Temp\scan_httpie__cli_m991w987\cli\docs\README.md:2106`
+- **Location:** `C:\Users\jingyi_yang\AppData\Local\Temp\scan_httpie__cli_m991w987\cli\docs\README.md:2106`
 
 **Description:** Possible typo found: 'Re-use' should be 'Reuse'
 
@@ -171,7 +171,7 @@
 
 - **Severity:** 🟢 Low
 - **Detector:** `codespell`
-- **Location:** `C:\Users\gguzm\AppData\Local\Temp\scan_httpie__cli_m991w987\cli\docs\README.md:2146`
+- **Location:** `C:\Users\jingyi_yang\AppData\Local\Temp\scan_httpie__cli_m991w987\cli\docs\README.md:2146`
 
 **Description:** Possible typo found: 're-used' should be 'reused'
 
@@ -183,7 +183,7 @@
 
 - **Severity:** 🟢 Low
 - **Detector:** `codespell`
-- **Location:** `C:\Users\gguzm\AppData\Local\Temp\scan_httpie__cli_m991w987\cli\docs\README.md:2413`
+- **Location:** `C:\Users\jingyi_yang\AppData\Local\Temp\scan_httpie__cli_m991w987\cli\docs\README.md:2413`
 
 **Description:** Possible typo found: 'convertors' should be 'converters'
 
@@ -195,7 +195,7 @@
 
 - **Severity:** 🟢 Low
 - **Detector:** `codespell`
-- **Location:** `C:\Users\gguzm\AppData\Local\Temp\scan_httpie__cli_m991w987\cli\extras\packaging\linux\scripts\hooks\hook-pip.py:11`
+- **Location:** `C:\Users\jingyi_yang\AppData\Local\Temp\scan_httpie__cli_m991w987\cli\extras\packaging\linux\scripts\hooks\hook-pip.py:11`
 
 **Description:** Possible typo found: 'datas' should be 'data'
 
@@ -207,7 +207,7 @@
 
 - **Severity:** 🟢 Low
 - **Detector:** `codespell`
-- **Location:** `C:\Users\gguzm\AppData\Local\Temp\scan_httpie__cli_m991w987\cli\extras\packaging\linux\scripts\hooks\hook-pip.py:12`
+- **Location:** `C:\Users\jingyi_yang\AppData\Local\Temp\scan_httpie__cli_m991w987\cli\extras\packaging\linux\scripts\hooks\hook-pip.py:12`
 
 **Description:** Possible typo found: 'datas' should be 'data'
 
@@ -219,7 +219,7 @@
 
 - **Severity:** 🟢 Low
 - **Detector:** `codespell`
-- **Location:** `C:\Users\gguzm\AppData\Local\Temp\scan_httpie__cli_m991w987\cli\extras\profiling\benchmarks.py:24`
+- **Location:** `C:\Users\jingyi_yang\AppData\Local\Temp\scan_httpie__cli_m991w987\cli\extras\profiling\benchmarks.py:24`
 
 **Description:** Possible typo found: 'resuls' should be 'results'
 

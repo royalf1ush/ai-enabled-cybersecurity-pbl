@@ -2,7 +2,7 @@
 
 **Scan ID:** `scan-20260107-070412-20780eea`  
 **Timestamp:** 2026-01-07T07:04:12.611525Z  
-**Target:** `C:\Users\gguzm\AppData\Local\Temp\scan_aio-libs__aiohttp_w0m6g1kn\aiohttp`
+**Target:** `C:\Users\jingyi_yang\AppData\Local\Temp\scan_aio-libs__aiohttp_w0m6g1kn\aiohttp`
 
 ---
 
@@ -36,7 +36,7 @@
 
 - **Severity:** 🟠 High
 - **Detector:** `regex-patterns`
-- **Location:** `C:\Users\gguzm\AppData\Local\Temp\scan_aio-libs__aiohttp_w0m6g1kn\aiohttp\aiohttp\helpers.py:161`
+- **Location:** `C:\Users\jingyi_yang\AppData\Local\Temp\scan_aio-libs__aiohttp_w0m6g1kn\aiohttp\aiohttp\helpers.py:161`
 - **Match (redacted):** `deco******lit(`
 
 **Description:** Detected potential secret matching Password/Secret pattern
@@ -47,7 +47,7 @@
 
 - **Severity:** 🟠 High
 - **Detector:** `regex-patterns`
-- **Location:** `C:\Users\gguzm\AppData\Local\Temp\scan_aio-libs__aiohttp_w0m6g1kn\aiohttp\aiohttp\helpers.py:257`
+- **Location:** `C:\Users\jingyi_yang\AppData\Local\Temp\scan_aio-libs__aiohttp_w0m6g1kn\aiohttp\aiohttp\helpers.py:257`
 - **Match (redacted):** `auth*******etrc`
 
 **Description:** Detected potential secret matching Password/Secret pattern
@@ -58,7 +58,7 @@
 
 - **Severity:** 🟠 High
 - **Detector:** `regex-patterns`
-- **Location:** `C:\Users\gguzm\AppData\Local\Temp\scan_aio-libs__aiohttp_w0m6g1kn\aiohttp\docs\client_advanced.rst:75`
+- **Location:** `C:\Users\jingyi_yang\AppData\Local\Temp\scan_aio-libs__aiohttp_w0m6g1kn\aiohttp\docs\client_advanced.rst:75`
 - **Match (redacted):** `********`
 
 **Description:** Detected potential secret matching Password/Secret pattern
@@ -69,7 +69,7 @@
 
 - **Severity:** 🟠 High
 - **Detector:** `regex-patterns`
-- **Location:** `C:\Users\gguzm\AppData\Local\Temp\scan_aio-libs__aiohttp_w0m6g1kn\aiohttp\docs\client_reference.rst:2285`
+- **Location:** `C:\Users\jingyi_yang\AppData\Local\Temp\scan_aio-libs__aiohttp_w0m6g1kn\aiohttp\docs\client_reference.rst:2285`
 - **Match (redacted):** `********`
 
 **Description:** Detected potential secret matching Password/Secret pattern
@@ -80,7 +80,7 @@
 
 - **Severity:** 🟠 High
 - **Detector:** `regex-patterns`
-- **Location:** `C:\Users\gguzm\AppData\Local\Temp\scan_aio-libs__aiohttp_w0m6g1kn\aiohttp\docs\client_reference.rst:2325`
+- **Location:** `C:\Users\jingyi_yang\AppData\Local\Temp\scan_aio-libs__aiohttp_w0m6g1kn\aiohttp\docs\client_reference.rst:2325`
 - **Match (redacted):** `********`
 
 **Description:** Detected potential secret matching Password/Secret pattern
@@ -91,7 +91,7 @@
 
 - **Severity:** 🟠 High
 - **Detector:** `regex-patterns`
-- **Location:** `C:\Users\gguzm\AppData\Local\Temp\scan_aio-libs__aiohttp_w0m6g1kn\aiohttp\examples\basic_auth_middleware.py:36`
+- **Location:** `C:\Users\jingyi_yang\AppData\Local\Temp\scan_aio-libs__aiohttp_w0m6g1kn\aiohttp\examples\basic_auth_middleware.py:36`
 - **Match (redacted):** `********`
 
 **Description:** Detected potential secret matching Password/Secret pattern
@@ -102,7 +102,7 @@
 
 - **Severity:** 🟠 High
 - **Detector:** `regex-patterns`
-- **Location:** `C:\Users\gguzm\AppData\Local\Temp\scan_aio-libs__aiohttp_w0m6g1kn\aiohttp\examples\basic_auth_middleware.py:82`
+- **Location:** `C:\Users\jingyi_yang\AppData\Local\Temp\scan_aio-libs__aiohttp_w0m6g1kn\aiohttp\examples\basic_auth_middleware.py:82`
 - **Match (redacted):** `deco******lit(`
 
 **Description:** Detected potential secret matching Password/Secret pattern
@@ -113,7 +113,7 @@
 
 - **Severity:** 🟠 High
 - **Detector:** `regex-patterns`
-- **Location:** `C:\Users\gguzm\AppData\Local\Temp\scan_aio-libs__aiohttp_w0m6g1kn\aiohttp\examples\combined_middleware.py:71`
+- **Location:** `C:\Users\jingyi_yang\AppData\Local\Temp\scan_aio-libs__aiohttp_w0m6g1kn\aiohttp\examples\combined_middleware.py:71`
 - **Match (redacted):** `********`
 
 **Description:** Detected potential secret matching Password/Secret pattern
@@ -124,7 +124,7 @@
 
 - **Severity:** 🟠 High
 - **Detector:** `regex-patterns`
-- **Location:** `C:\Users\gguzm\AppData\Local\Temp\scan_aio-libs__aiohttp_w0m6g1kn\aiohttp\examples\combined_middleware.py:181`
+- **Location:** `C:\Users\jingyi_yang\AppData\Local\Temp\scan_aio-libs__aiohttp_w0m6g1kn\aiohttp\examples\combined_middleware.py:181`
 - **Match (redacted):** `deco******lit(`
 
 **Description:** Detected potential secret matching Password/Secret pattern
@@ -135,7 +135,7 @@
 
 - **Severity:** 🟠 High
 - **Detector:** `regex-patterns`
-- **Location:** `C:\Users\gguzm\AppData\Local\Temp\scan_aio-libs__aiohttp_w0m6g1kn\aiohttp\examples\digest_auth_qop_auth.py:36`
+- **Location:** `C:\Users\jingyi_yang\AppData\Local\Temp\scan_aio-libs__aiohttp_w0m6g1kn\aiohttp\examples\digest_auth_qop_auth.py:36`
 - **Match (redacted):** `PASS*ORD)`
 
 **Description:** Detected potential secret matching Password/Secret pattern
@@ -146,7 +146,7 @@
 
 - **Severity:** 🟡 Medium
 - **Detector:** `regex-patterns`
-- **Location:** `C:\Users\gguzm\AppData\Local\Temp\scan_aio-libs__aiohttp_w0m6g1kn\aiohttp\examples\server.crt:1`
+- **Location:** `C:\Users\jingyi_yang\AppData\Local\Temp\scan_aio-libs__aiohttp_w0m6g1kn\aiohttp\examples\server.crt:1`
 - **Match (redacted):** `----********----`
 
 **Description:** Detected potential secret matching Certificate pattern
@@ -157,7 +157,7 @@
 
 - **Severity:** 🔴 Critical
 - **Detector:** `regex-patterns`
-- **Location:** `C:\Users\gguzm\AppData\Local\Temp\scan_aio-libs__aiohttp_w0m6g1kn\aiohttp\examples\server.key:1`
+- **Location:** `C:\Users\jingyi_yang\AppData\Local\Temp\scan_aio-libs__aiohttp_w0m6g1kn\aiohttp\examples\server.key:1`
 - **Match (redacted):** `****`
 
 **Description:** Detected potential secret matching Private Key pattern
@@ -168,7 +168,7 @@
 
 - **Severity:** 🟠 High
 - **Detector:** `regex-patterns`
-- **Location:** `C:\Users\gguzm\AppData\Local\Temp\scan_aio-libs__aiohttp_w0m6g1kn\aiohttp\tests\test_client_middleware_digest_auth.py:359`
+- **Location:** `C:\Users\jingyi_yang\AppData\Local\Temp\scan_aio-libs__aiohttp_w0m6g1kn\aiohttp\tests\test_client_middleware_digest_auth.py:359`
 - **Match (redacted):** `pass*ord,`
 
 **Description:** Detected potential secret matching Password/Secret pattern
@@ -179,7 +179,7 @@
 
 - **Severity:** 🟠 High
 - **Detector:** `regex-patterns`
-- **Location:** `C:\Users\gguzm\AppData\Local\Temp\scan_aio-libs__aiohttp_w0m6g1kn\aiohttp\tests\test_client_middleware_digest_auth.py:655`
+- **Location:** `C:\Users\jingyi_yang\AppData\Local\Temp\scan_aio-libs__aiohttp_w0m6g1kn\aiohttp\tests\test_client_middleware_digest_auth.py:655`
 - **Match (redacted):** `pass*ord,`
 
 **Description:** Detected potential secret matching Password/Secret pattern
@@ -190,7 +190,7 @@
 
 - **Severity:** 🟠 High
 - **Detector:** `regex-patterns`
-- **Location:** `C:\Users\gguzm\AppData\Local\Temp\scan_aio-libs__aiohttp_w0m6g1kn\aiohttp\tests\test_helpers.py:209`
+- **Location:** `C:\Users\jingyi_yang\AppData\Local\Temp\scan_aio-libs__aiohttp_w0m6g1kn\aiohttp\tests\test_helpers.py:209`
 - **Match (redacted):** `********`
 
 **Description:** Detected potential secret matching Password/Secret pattern
@@ -201,7 +201,7 @@
 
 - **Severity:** 🟠 High
 - **Detector:** `regex-patterns`
-- **Location:** `C:\Users\gguzm\AppData\Local\Temp\scan_aio-libs__aiohttp_w0m6g1kn\aiohttp\tests\test_helpers.py:213`
+- **Location:** `C:\Users\jingyi_yang\AppData\Local\Temp\scan_aio-libs__aiohttp_w0m6g1kn\aiohttp\tests\test_helpers.py:213`
 - **Match (redacted):** `********`
 
 **Description:** Detected potential secret matching Password/Secret pattern
@@ -214,7 +214,7 @@
 
 - **Severity:** 🟢 Low
 - **Detector:** `codespell`
-- **Location:** `C:\Users\gguzm\AppData\Local\Temp\scan_aio-libs__aiohttp_w0m6g1kn\aiohttp\CONTRIBUTORS.txt:68`
+- **Location:** `C:\Users\jingyi_yang\AppData\Local\Temp\scan_aio-libs__aiohttp_w0m6g1kn\aiohttp\CONTRIBUTORS.txt:68`
 
 **Description:** Possible typo found: 'Feld' should be 'Field'
 
@@ -226,7 +226,7 @@
 
 - **Severity:** 🟢 Low
 - **Detector:** `codespell`
-- **Location:** `C:\Users\gguzm\AppData\Local\Temp\scan_aio-libs__aiohttp_w0m6g1kn\aiohttp\CONTRIBUTORS.txt:112`
+- **Location:** `C:\Users\jingyi_yang\AppData\Local\Temp\scan_aio-libs__aiohttp_w0m6g1kn\aiohttp\CONTRIBUTORS.txt:112`
 
 **Description:** Possible typo found: 'Mata' should be 'Meta, Mater'
 
@@ -238,7 +238,7 @@
 
 - **Severity:** 🟢 Low
 - **Detector:** `codespell`
-- **Location:** `C:\Users\gguzm\AppData\Local\Temp\scan_aio-libs__aiohttp_w0m6g1kn\aiohttp\CONTRIBUTORS.txt:280`
+- **Location:** `C:\Users\jingyi_yang\AppData\Local\Temp\scan_aio-libs__aiohttp_w0m6g1kn\aiohttp\CONTRIBUTORS.txt:280`
 
 **Description:** Possible typo found: 'Collum' should be 'Column'
 
@@ -250,7 +250,7 @@
 
 - **Severity:** 🟢 Low
 - **Detector:** `codespell`
-- **Location:** `C:\Users\gguzm\AppData\Local\Temp\scan_aio-libs__aiohttp_w0m6g1kn\aiohttp\Makefile:11`
+- **Location:** `C:\Users\jingyi_yang\AppData\Local\Temp\scan_aio-libs__aiohttp_w0m6g1kn\aiohttp\Makefile:11`
 
 **Description:** Possible typo found: 'ALLS' should be 'ALL, FALLS'
 
@@ -262,7 +262,7 @@
 
 - **Severity:** 🟢 Low
 - **Detector:** `codespell`
-- **Location:** `C:\Users\gguzm\AppData\Local\Temp\scan_aio-libs__aiohttp_w0m6g1kn\aiohttp\Makefile:25`
+- **Location:** `C:\Users\jingyi_yang\AppData\Local\Temp\scan_aio-libs__aiohttp_w0m6g1kn\aiohttp\Makefile:25`
 
 **Description:** Possible typo found: 'ALLS' should be 'ALL, FALLS'
 
@@ -274,7 +274,7 @@
 
 - **Severity:** 🟢 Low
 - **Detector:** `codespell`
-- **Location:** `C:\Users\gguzm\AppData\Local\Temp\scan_aio-libs__aiohttp_w0m6g1kn\aiohttp\Makefile:47`
+- **Location:** `C:\Users\jingyi_yang\AppData\Local\Temp\scan_aio-libs__aiohttp_w0m6g1kn\aiohttp\Makefile:47`
 
 **Description:** Possible typo found: 'ALLS' should be 'ALL, FALLS'
 
@@ -286,7 +286,7 @@
 
 - **Severity:** 🟢 Low
 - **Detector:** `codespell`
-- **Location:** `C:\Users\gguzm\AppData\Local\Temp\scan_aio-libs__aiohttp_w0m6g1kn\aiohttp\aiohttp\client_reqrep.py:1120`
+- **Location:** `C:\Users\jingyi_yang\AppData\Local\Temp\scan_aio-libs__aiohttp_w0m6g1kn\aiohttp\aiohttp\client_reqrep.py:1120`
 
 **Description:** Possible typo found: 'te' should be 'the, be, we, to'
 
@@ -298,7 +298,7 @@
 
 - **Severity:** 🟢 Low
 - **Detector:** `codespell`
-- **Location:** `C:\Users\gguzm\AppData\Local\Temp\scan_aio-libs__aiohttp_w0m6g1kn\aiohttp\aiohttp\client_reqrep.py:1122`
+- **Location:** `C:\Users\jingyi_yang\AppData\Local\Temp\scan_aio-libs__aiohttp_w0m6g1kn\aiohttp\aiohttp\client_reqrep.py:1122`
 
 **Description:** Possible typo found: 'te' should be 'the, be, we, to'
 
@@ -310,7 +310,7 @@
 
 - **Severity:** 🟢 Low
 - **Detector:** `codespell`
-- **Location:** `C:\Users\gguzm\AppData\Local\Temp\scan_aio-libs__aiohttp_w0m6g1kn\aiohttp\aiohttp\hdrs.py:96`
+- **Location:** `C:\Users\jingyi_yang\AppData\Local\Temp\scan_aio-libs__aiohttp_w0m6g1kn\aiohttp\aiohttp\hdrs.py:96`
 
 **Description:** Possible typo found: 'TE' should be 'THE, BE, WE, TO'
 
@@ -322,7 +322,7 @@
 
 - **Severity:** 🟢 Low
 - **Detector:** `codespell`
-- **Location:** `C:\Users\gguzm\AppData\Local\Temp\scan_aio-libs__aiohttp_w0m6g1kn\aiohttp\aiohttp\hdrs.py:96`
+- **Location:** `C:\Users\jingyi_yang\AppData\Local\Temp\scan_aio-libs__aiohttp_w0m6g1kn\aiohttp\aiohttp\hdrs.py:96`
 
 **Description:** Possible typo found: 'TE' should be 'THE, BE, WE, TO'
 
@@ -334,7 +334,7 @@
 
 - **Severity:** 🟢 Low
 - **Detector:** `codespell`
-- **Location:** `C:\Users\gguzm\AppData\Local\Temp\scan_aio-libs__aiohttp_w0m6g1kn\aiohttp\aiohttp\http_parser.py:269`
+- **Location:** `C:\Users\jingyi_yang\AppData\Local\Temp\scan_aio-libs__aiohttp_w0m6g1kn\aiohttp\aiohttp\http_parser.py:269`
 
 **Description:** Possible typo found: 'te' should be 'the, be, we, to'
 
@@ -346,7 +346,7 @@
 
 - **Severity:** 🟢 Low
 - **Detector:** `codespell`
-- **Location:** `C:\Users\gguzm\AppData\Local\Temp\scan_aio-libs__aiohttp_w0m6g1kn\aiohttp\aiohttp\http_parser.py:534`
+- **Location:** `C:\Users\jingyi_yang\AppData\Local\Temp\scan_aio-libs__aiohttp_w0m6g1kn\aiohttp\aiohttp\http_parser.py:534`
 
 **Description:** Possible typo found: 'te' should be 'the, be, we, to'
 
@@ -358,7 +358,7 @@
 
 - **Severity:** 🟢 Low
 - **Detector:** `codespell`
-- **Location:** `C:\Users\gguzm\AppData\Local\Temp\scan_aio-libs__aiohttp_w0m6g1kn\aiohttp\aiohttp\http_parser.py:535`
+- **Location:** `C:\Users\jingyi_yang\AppData\Local\Temp\scan_aio-libs__aiohttp_w0m6g1kn\aiohttp\aiohttp\http_parser.py:535`
 
 **Description:** Possible typo found: 'te' should be 'the, be, we, to'
 
@@ -370,7 +370,7 @@
 
 - **Severity:** 🟢 Low
 - **Detector:** `codespell`
-- **Location:** `C:\Users\gguzm\AppData\Local\Temp\scan_aio-libs__aiohttp_w0m6g1kn\aiohttp\aiohttp\http_parser.py:536`
+- **Location:** `C:\Users\jingyi_yang\AppData\Local\Temp\scan_aio-libs__aiohttp_w0m6g1kn\aiohttp\aiohttp\http_parser.py:536`
 
 **Description:** Possible typo found: 'te' should be 'the, be, we, to'
 
@@ -382,7 +382,7 @@
 
 - **Severity:** 🟢 Low
 - **Detector:** `codespell`
-- **Location:** `C:\Users\gguzm\AppData\Local\Temp\scan_aio-libs__aiohttp_w0m6g1kn\aiohttp\aiohttp\http_parser.py:647`
+- **Location:** `C:\Users\jingyi_yang\AppData\Local\Temp\scan_aio-libs__aiohttp_w0m6g1kn\aiohttp\aiohttp\http_parser.py:647`
 
 **Description:** Possible typo found: 'te' should be 'the, be, we, to'
 
@@ -394,7 +394,7 @@
 
 - **Severity:** 🟢 Low
 - **Detector:** `codespell`
-- **Location:** `C:\Users\gguzm\AppData\Local\Temp\scan_aio-libs__aiohttp_w0m6g1kn\aiohttp\aiohttp\http_parser.py:648`
+- **Location:** `C:\Users\jingyi_yang\AppData\Local\Temp\scan_aio-libs__aiohttp_w0m6g1kn\aiohttp\aiohttp\http_parser.py:648`
 
 **Description:** Possible typo found: 'te' should be 'the, be, we, to'
 
@@ -406,7 +406,7 @@
 
 - **Severity:** 🟢 Low
 - **Detector:** `codespell`
-- **Location:** `C:\Users\gguzm\AppData\Local\Temp\scan_aio-libs__aiohttp_w0m6g1kn\aiohttp\aiohttp\http_parser.py:648`
+- **Location:** `C:\Users\jingyi_yang\AppData\Local\Temp\scan_aio-libs__aiohttp_w0m6g1kn\aiohttp\aiohttp\http_parser.py:648`
 
 **Description:** Possible typo found: 'te' should be 'the, be, we, to'
 
@@ -418,7 +418,7 @@
 
 - **Severity:** 🟢 Low
 - **Detector:** `codespell`
-- **Location:** `C:\Users\gguzm\AppData\Local\Temp\scan_aio-libs__aiohttp_w0m6g1kn\aiohttp\aiohttp\http_parser.py:650`
+- **Location:** `C:\Users\jingyi_yang\AppData\Local\Temp\scan_aio-libs__aiohttp_w0m6g1kn\aiohttp\aiohttp\http_parser.py:650`
 
 **Description:** Possible typo found: 'te' should be 'the, be, we, to'
 
@@ -430,7 +430,7 @@
 
 - **Severity:** 🟢 Low
 - **Detector:** `codespell`
-- **Location:** `C:\Users\gguzm\AppData\Local\Temp\scan_aio-libs__aiohttp_w0m6g1kn\aiohttp\aiohttp\http_parser.py:650`
+- **Location:** `C:\Users\jingyi_yang\AppData\Local\Temp\scan_aio-libs__aiohttp_w0m6g1kn\aiohttp\aiohttp\http_parser.py:650`
 
 **Description:** Possible typo found: 'te' should be 'the, be, we, to'
 
@@ -442,7 +442,7 @@
 
 - **Severity:** 🟢 Low
 - **Detector:** `codespell`
-- **Location:** `C:\Users\gguzm\AppData\Local\Temp\scan_aio-libs__aiohttp_w0m6g1kn\aiohttp\aiohttp\http_parser.py:740`
+- **Location:** `C:\Users\jingyi_yang\AppData\Local\Temp\scan_aio-libs__aiohttp_w0m6g1kn\aiohttp\aiohttp\http_parser.py:740`
 
 **Description:** Possible typo found: 'te' should be 'the, be, we, to'
 
@@ -454,7 +454,7 @@
 
 - **Severity:** 🟢 Low
 - **Detector:** `codespell`
-- **Location:** `C:\Users\gguzm\AppData\Local\Temp\scan_aio-libs__aiohttp_w0m6g1kn\aiohttp\aiohttp\http_parser.py:742`
+- **Location:** `C:\Users\jingyi_yang\AppData\Local\Temp\scan_aio-libs__aiohttp_w0m6g1kn\aiohttp\aiohttp\http_parser.py:742`
 
 **Description:** Possible typo found: 'te' should be 'the, be, we, to'
 
@@ -466,7 +466,7 @@
 
 - **Severity:** 🟢 Low
 - **Detector:** `codespell`
-- **Location:** `C:\Users\gguzm\AppData\Local\Temp\scan_aio-libs__aiohttp_w0m6g1kn\aiohttp\aiohttp\multipart.py:926`
+- **Location:** `C:\Users\jingyi_yang\AppData\Local\Temp\scan_aio-libs__aiohttp_w0m6g1kn\aiohttp\aiohttp\multipart.py:926`
 
 **Description:** Possible typo found: 'te' should be 'the, be, we, to'
 
@@ -478,7 +478,7 @@
 
 - **Severity:** 🟢 Low
 - **Detector:** `codespell`
-- **Location:** `C:\Users\gguzm\AppData\Local\Temp\scan_aio-libs__aiohttp_w0m6g1kn\aiohttp\tests\test_http_parser.py:1587`
+- **Location:** `C:\Users\jingyi_yang\AppData\Local\Temp\scan_aio-libs__aiohttp_w0m6g1kn\aiohttp\tests\test_http_parser.py:1587`
 
 **Description:** Possible typo found: 'te' should be 'the, be, we, to'
 

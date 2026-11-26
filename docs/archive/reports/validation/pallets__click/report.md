@@ -2,7 +2,7 @@
 
 **Scan ID:** `scan-20260107-070238-64f647d8`  
 **Timestamp:** 2026-01-07T07:02:38.812846Z  
-**Target:** `C:\Users\gguzm\AppData\Local\Temp\scan_pallets__click_113dv_xy\click`
+**Target:** `C:\Users\jingyi_yang\AppData\Local\Temp\scan_pallets__click_113dv_xy\click`
 
 ---
 
@@ -34,7 +34,7 @@
 
 - **Severity:** 🟠 High
 - **Detector:** `regex-patterns`
-- **Location:** `C:\Users\gguzm\AppData\Local\Temp\scan_pallets__click_113dv_xy\click\tests\test_utils.py:230`
+- **Location:** `C:\Users\jingyi_yang\AppData\Local\Temp\scan_pallets__click_113dv_xy\click\tests\test_utils.py:230`
 - **Match (redacted):** `\nin*******ed\n`
 
 **Description:** Detected potential secret matching Password/Secret pattern
@@ -47,7 +47,7 @@
 
 - **Severity:** 🟢 Low
 - **Detector:** `codespell`
-- **Location:** `C:\Users\gguzm\AppData\Local\Temp\scan_pallets__click_113dv_xy\click\CHANGES.rst:891`
+- **Location:** `C:\Users\jingyi_yang\AppData\Local\Temp\scan_pallets__click_113dv_xy\click\CHANGES.rst:891`
 
 **Description:** Possible typo found: 're-used' should be 'reused'
 
@@ -59,7 +59,7 @@
 
 - **Severity:** 🟢 Low
 - **Detector:** `codespell`
-- **Location:** `C:\Users\gguzm\AppData\Local\Temp\scan_pallets__click_113dv_xy\click\docs\handling-files.md:29`
+- **Location:** `C:\Users\jingyi_yang\AppData\Local\Temp\scan_pallets__click_113dv_xy\click\docs\handling-files.md:29`
 
 **Description:** Possible typo found: 'inout' should be 'input, in out'
 
@@ -71,7 +71,7 @@
 
 - **Severity:** 🟢 Low
 - **Detector:** `codespell`
-- **Location:** `C:\Users\gguzm\AppData\Local\Temp\scan_pallets__click_113dv_xy\click\docs\handling-files.md:42`
+- **Location:** `C:\Users\jingyi_yang\AppData\Local\Temp\scan_pallets__click_113dv_xy\click\docs\handling-files.md:42`
 
 **Description:** Possible typo found: 'inout' should be 'input, in out'
 
@@ -83,7 +83,7 @@
 
 - **Severity:** 🟢 Low
 - **Detector:** `codespell`
-- **Location:** `C:\Users\gguzm\AppData\Local\Temp\scan_pallets__click_113dv_xy\click\docs\handling-files.md:44`
+- **Location:** `C:\Users\jingyi_yang\AppData\Local\Temp\scan_pallets__click_113dv_xy\click\docs\handling-files.md:44`
 
 **Description:** Possible typo found: 'inout' should be 'input, in out'
 
@@ -95,7 +95,7 @@
 
 - **Severity:** 🟢 Low
 - **Detector:** `codespell`
-- **Location:** `C:\Users\gguzm\AppData\Local\Temp\scan_pallets__click_113dv_xy\click\docs\quickstart.md:21`
+- **Location:** `C:\Users\jingyi_yang\AppData\Local\Temp\scan_pallets__click_113dv_xy\click\docs\quickstart.md:21`
 
 **Description:** Possible typo found: 'inout' should be 'input, in out'
 
@@ -107,7 +107,7 @@
 
 - **Severity:** 🟢 Low
 - **Detector:** `codespell`
-- **Location:** `C:\Users\gguzm\AppData\Local\Temp\scan_pallets__click_113dv_xy\click\docs\quickstart.md:21`
+- **Location:** `C:\Users\jingyi_yang\AppData\Local\Temp\scan_pallets__click_113dv_xy\click\docs\quickstart.md:21`
 
 **Description:** Possible typo found: 'inout' should be 'input, in out'
 
@@ -119,7 +119,7 @@
 
 - **Severity:** 🟢 Low
 - **Detector:** `codespell`
-- **Location:** `C:\Users\gguzm\AppData\Local\Temp\scan_pallets__click_113dv_xy\click\examples\aliases\aliases.py:43`
+- **Location:** `C:\Users\jingyi_yang\AppData\Local\Temp\scan_pallets__click_113dv_xy\click\examples\aliases\aliases.py:43`
 
 **Description:** Possible typo found: 'bulitin' should be 'built-in'
 
@@ -131,7 +131,7 @@
 
 - **Severity:** 🟢 Low
 - **Detector:** `codespell`
-- **Location:** `C:\Users\gguzm\AppData\Local\Temp\scan_pallets__click_113dv_xy\click\examples\inout\README:3`
+- **Location:** `C:\Users\jingyi_yang\AppData\Local\Temp\scan_pallets__click_113dv_xy\click\examples\inout\README:3`
 
 **Description:** Possible typo found: 'inout' should be 'input, in out'
 
@@ -143,7 +143,7 @@
 
 - **Severity:** 🟢 Low
 - **Detector:** `codespell`
-- **Location:** `C:\Users\gguzm\AppData\Local\Temp\scan_pallets__click_113dv_xy\click\examples\inout\README:10`
+- **Location:** `C:\Users\jingyi_yang\AppData\Local\Temp\scan_pallets__click_113dv_xy\click\examples\inout\README:10`
 
 **Description:** Possible typo found: 'inout' should be 'input, in out'
 
@@ -155,7 +155,7 @@
 
 - **Severity:** 🟢 Low
 - **Detector:** `codespell`
-- **Location:** `C:\Users\gguzm\AppData\Local\Temp\scan_pallets__click_113dv_xy\click\examples\inout\inout.py:14`
+- **Location:** `C:\Users\jingyi_yang\AppData\Local\Temp\scan_pallets__click_113dv_xy\click\examples\inout\inout.py:14`
 
 **Description:** Possible typo found: 'inout' should be 'input, in out'
 
@@ -167,7 +167,7 @@
 
 - **Severity:** 🟢 Low
 - **Detector:** `codespell`
-- **Location:** `C:\Users\gguzm\AppData\Local\Temp\scan_pallets__click_113dv_xy\click\examples\inout\inout.py:18`
+- **Location:** `C:\Users\jingyi_yang\AppData\Local\Temp\scan_pallets__click_113dv_xy\click\examples\inout\inout.py:18`
 
 **Description:** Possible typo found: 'inout' should be 'input, in out'
 
@@ -179,7 +179,7 @@
 
 - **Severity:** 🟢 Low
 - **Detector:** `codespell`
-- **Location:** `C:\Users\gguzm\AppData\Local\Temp\scan_pallets__click_113dv_xy\click\examples\inout\inout.py:22`
+- **Location:** `C:\Users\jingyi_yang\AppData\Local\Temp\scan_pallets__click_113dv_xy\click\examples\inout\inout.py:22`
 
 **Description:** Possible typo found: 'inout' should be 'input, in out'
 
@@ -191,7 +191,7 @@
 
 - **Severity:** 🟢 Low
 - **Detector:** `codespell`
-- **Location:** `C:\Users\gguzm\AppData\Local\Temp\scan_pallets__click_113dv_xy\click\examples\inout\pyproject.toml:4`
+- **Location:** `C:\Users\jingyi_yang\AppData\Local\Temp\scan_pallets__click_113dv_xy\click\examples\inout\pyproject.toml:4`
 
 **Description:** Possible typo found: 'inout' should be 'input, in out'
 
@@ -203,7 +203,7 @@
 
 - **Severity:** 🟢 Low
 - **Detector:** `codespell`
-- **Location:** `C:\Users\gguzm\AppData\Local\Temp\scan_pallets__click_113dv_xy\click\examples\inout\pyproject.toml:11`
+- **Location:** `C:\Users\jingyi_yang\AppData\Local\Temp\scan_pallets__click_113dv_xy\click\examples\inout\pyproject.toml:11`
 
 **Description:** Possible typo found: 'inout' should be 'input, in out'
 
@@ -215,7 +215,7 @@
 
 - **Severity:** 🟢 Low
 - **Detector:** `codespell`
-- **Location:** `C:\Users\gguzm\AppData\Local\Temp\scan_pallets__click_113dv_xy\click\examples\inout\pyproject.toml:11`
+- **Location:** `C:\Users\jingyi_yang\AppData\Local\Temp\scan_pallets__click_113dv_xy\click\examples\inout\pyproject.toml:11`
 
 **Description:** Possible typo found: 'inout' should be 'input, in out'
 
@@ -227,7 +227,7 @@
 
 - **Severity:** 🟢 Low
 - **Detector:** `codespell`
-- **Location:** `C:\Users\gguzm\AppData\Local\Temp\scan_pallets__click_113dv_xy\click\examples\inout\pyproject.toml:18`
+- **Location:** `C:\Users\jingyi_yang\AppData\Local\Temp\scan_pallets__click_113dv_xy\click\examples\inout\pyproject.toml:18`
 
 **Description:** Possible typo found: 'inout' should be 'input, in out'
 
@@ -239,7 +239,7 @@
 
 - **Severity:** 🟢 Low
 - **Detector:** `codespell`
-- **Location:** `C:\Users\gguzm\AppData\Local\Temp\scan_pallets__click_113dv_xy\click\src\click\core.py:1069`
+- **Location:** `C:\Users\jingyi_yang\AppData\Local\Temp\scan_pallets__click_113dv_xy\click\src\click\core.py:1069`
 
 **Description:** Possible typo found: 'odering' should be 'ordering'
 
@@ -251,7 +251,7 @@
 
 - **Severity:** 🟢 Low
 - **Detector:** `codespell`
-- **Location:** `C:\Users\gguzm\AppData\Local\Temp\scan_pallets__click_113dv_xy\click\src\click\decorators.py:18`
+- **Location:** `C:\Users\jingyi_yang\AppData\Local\Temp\scan_pallets__click_113dv_xy\click\src\click\decorators.py:18`
 
 **Description:** Possible typo found: 'te' should be 'the, be, we, to'
 
@@ -263,7 +263,7 @@
 
 - **Severity:** 🟢 Low
 - **Detector:** `codespell`
-- **Location:** `C:\Users\gguzm\AppData\Local\Temp\scan_pallets__click_113dv_xy\click\src\click\decorators.py:20`
+- **Location:** `C:\Users\jingyi_yang\AppData\Local\Temp\scan_pallets__click_113dv_xy\click\src\click\decorators.py:20`
 
 **Description:** Possible typo found: 'te' should be 'the, be, we, to'
 
@@ -275,7 +275,7 @@
 
 - **Severity:** 🟢 Low
 - **Detector:** `codespell`
-- **Location:** `C:\Users\gguzm\AppData\Local\Temp\scan_pallets__click_113dv_xy\click\src\click\decorators.py:28`
+- **Location:** `C:\Users\jingyi_yang\AppData\Local\Temp\scan_pallets__click_113dv_xy\click\src\click\decorators.py:28`
 
 **Description:** Possible typo found: 'te' should be 'the, be, we, to'
 
@@ -287,7 +287,7 @@
 
 - **Severity:** 🟢 Low
 - **Detector:** `codespell`
-- **Location:** `C:\Users\gguzm\AppData\Local\Temp\scan_pallets__click_113dv_xy\click\src\click\decorators.py:39`
+- **Location:** `C:\Users\jingyi_yang\AppData\Local\Temp\scan_pallets__click_113dv_xy\click\src\click\decorators.py:39`
 
 **Description:** Possible typo found: 'te' should be 'the, be, we, to'
 
@@ -299,7 +299,7 @@
 
 - **Severity:** 🟢 Low
 - **Detector:** `codespell`
-- **Location:** `C:\Users\gguzm\AppData\Local\Temp\scan_pallets__click_113dv_xy\click\src\click\decorators.py:53`
+- **Location:** `C:\Users\jingyi_yang\AppData\Local\Temp\scan_pallets__click_113dv_xy\click\src\click\decorators.py:53`
 
 **Description:** Possible typo found: 'te' should be 'the, be, we, to'
 
@@ -311,7 +311,7 @@
 
 - **Severity:** 🟢 Low
 - **Detector:** `codespell`
-- **Location:** `C:\Users\gguzm\AppData\Local\Temp\scan_pallets__click_113dv_xy\click\src\click\decorators.py:76`
+- **Location:** `C:\Users\jingyi_yang\AppData\Local\Temp\scan_pallets__click_113dv_xy\click\src\click\decorators.py:76`
 
 **Description:** Possible typo found: 'te' should be 'the, be, we, to'
 
@@ -323,7 +323,7 @@
 
 - **Severity:** 🟢 Low
 - **Detector:** `codespell`
-- **Location:** `C:\Users\gguzm\AppData\Local\Temp\scan_pallets__click_113dv_xy\click\src\click\decorators.py:102`
+- **Location:** `C:\Users\jingyi_yang\AppData\Local\Temp\scan_pallets__click_113dv_xy\click\src\click\decorators.py:102`
 
 **Description:** Possible typo found: 'te' should be 'the, be, we, to'
 
@@ -335,7 +335,7 @@
 
 - **Severity:** 🟢 Low
 - **Detector:** `codespell`
-- **Location:** `C:\Users\gguzm\AppData\Local\Temp\scan_pallets__click_113dv_xy\click\src\click\decorators.py:115`
+- **Location:** `C:\Users\jingyi_yang\AppData\Local\Temp\scan_pallets__click_113dv_xy\click\src\click\decorators.py:115`
 
 **Description:** Possible typo found: 'te' should be 'the, be, we, to'
 
@@ -347,7 +347,7 @@
 
 - **Severity:** 🟢 Low
 - **Detector:** `codespell`
-- **Location:** `C:\Users\gguzm\AppData\Local\Temp\scan_pallets__click_113dv_xy\click\src\click\parser.py:424`
+- **Location:** `C:\Users\jingyi_yang\AppData\Local\Temp\scan_pallets__click_113dv_xy\click\src\click\parser.py:424`
 
 **Description:** Possible typo found: 'larg' should be 'large'
 
@@ -359,7 +359,7 @@
 
 - **Severity:** 🟢 Low
 - **Detector:** `codespell`
-- **Location:** `C:\Users\gguzm\AppData\Local\Temp\scan_pallets__click_113dv_xy\click\src\click\types.py:21`
+- **Location:** `C:\Users\jingyi_yang\AppData\Local\Temp\scan_pallets__click_113dv_xy\click\src\click\types.py:21`
 
 **Description:** Possible typo found: 'te' should be 'the, be, we, to'
 
@@ -371,7 +371,7 @@
 
 - **Severity:** 🟢 Low
 - **Detector:** `codespell`
-- **Location:** `C:\Users\gguzm\AppData\Local\Temp\scan_pallets__click_113dv_xy\click\src\click\types.py:875`
+- **Location:** `C:\Users\jingyi_yang\AppData\Local\Temp\scan_pallets__click_113dv_xy\click\src\click\types.py:875`
 
 **Description:** Possible typo found: 'te' should be 'the, be, we, to'
 
@@ -383,7 +383,7 @@
 
 - **Severity:** 🟢 Low
 - **Detector:** `codespell`
-- **Location:** `C:\Users\gguzm\AppData\Local\Temp\scan_pallets__click_113dv_xy\click\src\click\utils.py:25`
+- **Location:** `C:\Users\jingyi_yang\AppData\Local\Temp\scan_pallets__click_113dv_xy\click\src\click\utils.py:25`
 
 **Description:** Possible typo found: 'te' should be 'the, be, we, to'
 
@@ -395,7 +395,7 @@
 
 - **Severity:** 🟢 Low
 - **Detector:** `codespell`
-- **Location:** `C:\Users\gguzm\AppData\Local\Temp\scan_pallets__click_113dv_xy\click\src\click\utils.py:27`
+- **Location:** `C:\Users\jingyi_yang\AppData\Local\Temp\scan_pallets__click_113dv_xy\click\src\click\utils.py:27`
 
 **Description:** Possible typo found: 'te' should be 'the, be, we, to'
 
@@ -407,7 +407,7 @@
 
 - **Severity:** 🟢 Low
 - **Detector:** `codespell`
-- **Location:** `C:\Users\gguzm\AppData\Local\Temp\scan_pallets__click_113dv_xy\click\tests\test_arguments.py:109`
+- **Location:** `C:\Users\jingyi_yang\AppData\Local\Temp\scan_pallets__click_113dv_xy\click\tests\test_arguments.py:109`
 
 **Description:** Possible typo found: 'inout' should be 'input, in out'
 
@@ -419,7 +419,7 @@
 
 - **Severity:** 🟢 Low
 - **Detector:** `codespell`
-- **Location:** `C:\Users\gguzm\AppData\Local\Temp\scan_pallets__click_113dv_xy\click\tests\test_arguments.py:117`
+- **Location:** `C:\Users\jingyi_yang\AppData\Local\Temp\scan_pallets__click_113dv_xy\click\tests\test_arguments.py:117`
 
 **Description:** Possible typo found: 'inout' should be 'input, in out'
 
@@ -431,7 +431,7 @@
 
 - **Severity:** 🟢 Low
 - **Detector:** `codespell`
-- **Location:** `C:\Users\gguzm\AppData\Local\Temp\scan_pallets__click_113dv_xy\click\tests\test_arguments.py:123`
+- **Location:** `C:\Users\jingyi_yang\AppData\Local\Temp\scan_pallets__click_113dv_xy\click\tests\test_arguments.py:123`
 
 **Description:** Possible typo found: 'inout' should be 'input, in out'
 
@@ -443,7 +443,7 @@
 
 - **Severity:** 🟢 Low
 - **Detector:** `codespell`
-- **Location:** `C:\Users\gguzm\AppData\Local\Temp\scan_pallets__click_113dv_xy\click\tests\test_arguments.py:142`
+- **Location:** `C:\Users\jingyi_yang\AppData\Local\Temp\scan_pallets__click_113dv_xy\click\tests\test_arguments.py:142`
 
 **Description:** Possible typo found: 'inout' should be 'input, in out'
 
@@ -455,7 +455,7 @@
 
 - **Severity:** 🟢 Low
 - **Detector:** `codespell`
-- **Location:** `C:\Users\gguzm\AppData\Local\Temp\scan_pallets__click_113dv_xy\click\tests\test_arguments.py:152`
+- **Location:** `C:\Users\jingyi_yang\AppData\Local\Temp\scan_pallets__click_113dv_xy\click\tests\test_arguments.py:152`
 
 **Description:** Possible typo found: 'inout' should be 'input, in out'
 
@@ -467,7 +467,7 @@
 
 - **Severity:** 🟢 Low
 - **Detector:** `codespell`
-- **Location:** `C:\Users\gguzm\AppData\Local\Temp\scan_pallets__click_113dv_xy\click\tests\test_arguments.py:162`
+- **Location:** `C:\Users\jingyi_yang\AppData\Local\Temp\scan_pallets__click_113dv_xy\click\tests\test_arguments.py:162`
 
 **Description:** Possible typo found: 'inout' should be 'input, in out'
 
@@ -479,7 +479,7 @@
 
 - **Severity:** 🟢 Low
 - **Detector:** `codespell`
-- **Location:** `C:\Users\gguzm\AppData\Local\Temp\scan_pallets__click_113dv_xy\click\tests\test_arguments.py:166`
+- **Location:** `C:\Users\jingyi_yang\AppData\Local\Temp\scan_pallets__click_113dv_xy\click\tests\test_arguments.py:166`
 
 **Description:** Possible typo found: 'inout' should be 'input, in out'
 
@@ -491,7 +491,7 @@
 
 - **Severity:** 🟢 Low
 - **Detector:** `codespell`
-- **Location:** `C:\Users\gguzm\AppData\Local\Temp\scan_pallets__click_113dv_xy\click\tests\test_options.py:512`
+- **Location:** `C:\Users\jingyi_yang\AppData\Local\Temp\scan_pallets__click_113dv_xy\click\tests\test_options.py:512`
 
 **Description:** Possible typo found: 'ue' should be 'use, due'
 
@@ -503,7 +503,7 @@
 
 - **Severity:** 🟢 Low
 - **Detector:** `codespell`
-- **Location:** `C:\Users\gguzm\AppData\Local\Temp\scan_pallets__click_113dv_xy\click\tests\test_options.py:991`
+- **Location:** `C:\Users\jingyi_yang\AppData\Local\Temp\scan_pallets__click_113dv_xy\click\tests\test_options.py:991`
 
 **Description:** Possible typo found: 'wont' should be 'won't'
 
@@ -515,7 +515,7 @@
 
 - **Severity:** 🟢 Low
 - **Detector:** `codespell`
-- **Location:** `C:\Users\gguzm\AppData\Local\Temp\scan_pallets__click_113dv_xy\click\tests\test_options.py:997`
+- **Location:** `C:\Users\jingyi_yang\AppData\Local\Temp\scan_pallets__click_113dv_xy\click\tests\test_options.py:997`
 
 **Description:** Possible typo found: 'wont' should be 'won't'
 
@@ -527,7 +527,7 @@
 
 - **Severity:** 🟢 Low
 - **Detector:** `codespell`
-- **Location:** `C:\Users\gguzm\AppData\Local\Temp\scan_pallets__click_113dv_xy\click\tests\test_options.py:1007`
+- **Location:** `C:\Users\jingyi_yang\AppData\Local\Temp\scan_pallets__click_113dv_xy\click\tests\test_options.py:1007`
 
 **Description:** Possible typo found: 'wont' should be 'won't'
 
@@ -539,7 +539,7 @@
 
 - **Severity:** 🟢 Low
 - **Detector:** `codespell`
-- **Location:** `C:\Users\gguzm\AppData\Local\Temp\scan_pallets__click_113dv_xy\click\tests\test_options.py:1013`
+- **Location:** `C:\Users\jingyi_yang\AppData\Local\Temp\scan_pallets__click_113dv_xy\click\tests\test_options.py:1013`
 
 **Description:** Possible typo found: 'wont' should be 'won't'
 
@@ -551,7 +551,7 @@
 
 - **Severity:** 🟢 Low
 - **Detector:** `codespell`
-- **Location:** `C:\Users\gguzm\AppData\Local\Temp\scan_pallets__click_113dv_xy\click\tests\test_options.py:1060`
+- **Location:** `C:\Users\jingyi_yang\AppData\Local\Temp\scan_pallets__click_113dv_xy\click\tests\test_options.py:1060`
 
 **Description:** Possible typo found: 're-use' should be 'reuse'
 
@@ -563,7 +563,7 @@
 
 - **Severity:** 🟢 Low
 - **Detector:** `codespell`
-- **Location:** `C:\Users\gguzm\AppData\Local\Temp\scan_pallets__click_113dv_xy\click\tests\test_options.py:1061`
+- **Location:** `C:\Users\jingyi_yang\AppData\Local\Temp\scan_pallets__click_113dv_xy\click\tests\test_options.py:1061`
 
 **Description:** Possible typo found: 'wont' should be 'won't'
 
@@ -575,7 +575,7 @@
 
 - **Severity:** 🟢 Low
 - **Detector:** `codespell`
-- **Location:** `C:\Users\gguzm\AppData\Local\Temp\scan_pallets__click_113dv_xy\click\tests\test_options.py:1077`
+- **Location:** `C:\Users\jingyi_yang\AppData\Local\Temp\scan_pallets__click_113dv_xy\click\tests\test_options.py:1077`
 
 **Description:** Possible typo found: 'wont' should be 'won't'
 
@@ -587,7 +587,7 @@
 
 - **Severity:** 🟢 Low
 - **Detector:** `codespell`
-- **Location:** `C:\Users\gguzm\AppData\Local\Temp\scan_pallets__click_113dv_xy\click\tests\test_termui.py:395`
+- **Location:** `C:\Users\jingyi_yang\AppData\Local\Temp\scan_pallets__click_113dv_xy\click\tests\test_termui.py:395`
 
 **Description:** Possible typo found: 'ot' should be 'to, of, or, not, it'
 
@@ -599,7 +599,7 @@
 
 - **Severity:** 🟢 Low
 - **Detector:** `codespell`
-- **Location:** `C:\Users\gguzm\AppData\Local\Temp\scan_pallets__click_113dv_xy\click\tests\test_types.py:231`
+- **Location:** `C:\Users\jingyi_yang\AppData\Local\Temp\scan_pallets__click_113dv_xy\click\tests\test_types.py:231`
 
 **Description:** Possible typo found: 'spacial' should be 'special, spatial'
 
