@@ -328,8 +328,8 @@ By building these considerations into our tools from the start, we can contribut
 
 ## Source Documents
 
-- **Responsible Innovation Essay:** [`docs/week6-responsible-innovation-essay.md`](https://github.com/YOUR_USERNAME/ai-enabled-cybersecurity-pbl/blob/main/docs/week6-responsible-innovation-essay.md)
-- **Ethical Analysis:** [`docs/ethical-analysis.md`](https://github.com/YOUR_USERNAME/ai-enabled-cybersecurity-pbl/blob/main/docs/ethical-analysis.md)
+- **Responsible Innovation Essay:** [`docs/week6-responsible-innovation-essay.md`](https://github.com/royalf1ush/ai-enabled-cybersecurity-pbl/blob/main/docs/week6-responsible-innovation-essay.md)
+- **Ethical Analysis:** [`docs/ethical-analysis.md`](https://github.com/royalf1ush/ai-enabled-cybersecurity-pbl/blob/main/docs/ethical-analysis.md)
 
 ---
 

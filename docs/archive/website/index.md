@@ -93,7 +93,7 @@ Ethical analysis and responsible innovation principles for dual-use security too
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/ai-enabled-cybersecurity-pbl.git
+git clone https://github.com/royalf1ush/ai-enabled-cybersecurity-pbl.git
 cd ai-enabled-cybersecurity-pbl
 
 # Install dependencies

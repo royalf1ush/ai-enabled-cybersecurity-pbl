@@ -113,7 +113,7 @@ python -m pipeline.main --check-tools
 
 ```bash
 # Clone and install
-git clone https://github.com/YOUR_USERNAME/ai-enabled-cybersecurity-pbl.git
+git clone https://github.com/royalf1ush/ai-enabled-cybersecurity-pbl.git
 cd ai-enabled-cybersecurity-pbl
 pip install -r requirements.txt
 

@@ -279,15 +279,15 @@ evals/
 
 - Meta CyberSecEval: [github.com/meta-llama/PurpleLlama](https://github.com/meta-llama/PurpleLlama)
 - OWASP Benchmark: [owasp.org/www-project-benchmark](https://owasp.org/www-project-benchmark/)
-- Our Detectors: [`src/pipeline/detectors/`](https://github.com/YOUR_USERNAME/ai-enabled-cybersecurity-pbl/tree/main/src/pipeline/detectors)
+- Our Detectors: [`src/pipeline/detectors/`](https://github.com/royalf1ush/ai-enabled-cybersecurity-pbl/tree/main/src/pipeline/detectors)
 
 ---
 
 ## Source Code
 
-- **Evaluation Framework:** [`evals/`](https://github.com/YOUR_USERNAME/ai-enabled-cybersecurity-pbl/tree/main/evals)
-- **Results:** [`reports/week5/`](https://github.com/YOUR_USERNAME/ai-enabled-cybersecurity-pbl/tree/main/reports/week5)
-- **Documentation:** [`docs/week5-evals.md`](https://github.com/YOUR_USERNAME/ai-enabled-cybersecurity-pbl/blob/main/docs/week5-evals.md)
+- **Evaluation Framework:** [`evals/`](https://github.com/royalf1ush/ai-enabled-cybersecurity-pbl/tree/main/evals)
+- **Results:** [`reports/week5/`](https://github.com/royalf1ush/ai-enabled-cybersecurity-pbl/tree/main/reports/week5)
+- **Documentation:** [`docs/week5-evals.md`](https://github.com/royalf1ush/ai-enabled-cybersecurity-pbl/blob/main/docs/week5-evals.md)
 
 ---
 

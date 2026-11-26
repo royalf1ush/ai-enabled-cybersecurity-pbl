@@ -323,10 +323,10 @@ ollama list
 
 ## Source Code
 
-- **Main Pipeline:** [`src/pipeline/main.py`](https://github.com/YOUR_USERNAME/ai-enabled-cybersecurity-pbl/blob/main/src/pipeline/main.py)
-- **GitHub Agent:** [`src/pipeline/github_agent.py`](https://github.com/YOUR_USERNAME/ai-enabled-cybersecurity-pbl/blob/main/src/pipeline/github_agent.py)
-- **Detectors:** [`src/pipeline/detectors/`](https://github.com/YOUR_USERNAME/ai-enabled-cybersecurity-pbl/tree/main/src/pipeline/detectors)
-- **Reporters:** [`src/pipeline/reporters/`](https://github.com/YOUR_USERNAME/ai-enabled-cybersecurity-pbl/tree/main/src/pipeline/reporters)
+- **Main Pipeline:** [`src/pipeline/main.py`](https://github.com/royalf1ush/ai-enabled-cybersecurity-pbl/blob/main/src/pipeline/main.py)
+- **GitHub Agent:** [`src/pipeline/github_agent.py`](https://github.com/royalf1ush/ai-enabled-cybersecurity-pbl/blob/main/src/pipeline/github_agent.py)
+- **Detectors:** [`src/pipeline/detectors/`](https://github.com/royalf1ush/ai-enabled-cybersecurity-pbl/tree/main/src/pipeline/detectors)
+- **Reporters:** [`src/pipeline/reporters/`](https://github.com/royalf1ush/ai-enabled-cybersecurity-pbl/tree/main/src/pipeline/reporters)
 
 ---
 
