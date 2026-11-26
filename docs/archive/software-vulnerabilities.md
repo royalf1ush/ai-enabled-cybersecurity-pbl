@@ -1,7 +1,7 @@
 # Common Software Vulnerabilities
 
 > **Week 1 Reference Document**  
-> MIT Blended AI+X Program — Track 3: Cinderveil
+> MIT Blended AI+X Program — Track 3: Vulnwright
 
 This document provides an educational overview of common software vulnerability types. Understanding these vulnerabilities is foundational for exploring how AI can assist in defensive cybersecurity workflows.
 
@@ -156,4 +156,4 @@ AI can assist in analyzing dependency trees, explaining CVE impacts, and priorit
 
 ---
 
-*This document is part of Week 1 learning materials for the Cinderveil PBL project.*
+*This document is part of Week 1 learning materials for the Vulnwright PBL project.*

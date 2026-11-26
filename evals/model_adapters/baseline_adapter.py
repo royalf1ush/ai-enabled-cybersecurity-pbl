@@ -1,7 +1,7 @@
 """
 Baseline adapter using deterministic detectors only.
 
-MIT Blended AI+X PBL - Cinderveil
+MIT Blended AI+X PBL - Vulnwright
 """
 
 import re

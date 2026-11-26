@@ -1,7 +1,7 @@
 """
 Metrics computation for evaluation harness.
 
-MIT Blended AI+X PBL - Cinderveil
+MIT Blended AI+X PBL - Vulnwright
 """
 
 from dataclasses import dataclass, field

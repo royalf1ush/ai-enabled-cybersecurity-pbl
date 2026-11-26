@@ -4,9 +4,9 @@ title: Home
 nav_order: 1
 ---
 
-# Cinderveil
+# Vulnwright
 
-**MIT Blended AI+X PBL - Track 3: Cinderveil (Anthropic Project)**
+**MIT Blended AI+X PBL - Track 3: Vulnwright (Anthropic Project)**
 
 ---
 
@@ -93,8 +93,8 @@ Ethical analysis and responsible innovation principles for dual-use security too
 
 ```bash
 # Clone the repository
-git clone https://github.com/royalf1ush/cinderveil.git
-cd cinderveil
+git clone https://github.com/royalf1ush/vulnwright.git
+cd vulnwright
 
 # Install dependencies
 pip install -r requirements.txt
@@ -143,4 +143,4 @@ No content should be used for malicious or unauthorized security activities.
 
 ---
 
-*MIT Blended AI+X Program - Track 3: Cinderveil*
+*MIT Blended AI+X Program - Track 3: Vulnwright*

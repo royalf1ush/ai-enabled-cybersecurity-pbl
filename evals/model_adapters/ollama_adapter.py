@@ -1,7 +1,7 @@
 """
 Ollama adapter for local LLM evaluation.
 
-MIT Blended AI+X PBL - Cinderveil
+MIT Blended AI+X PBL - Vulnwright
 """
 
 import subprocess

@@ -1,6 +1,6 @@
 # Week 5 Evaluation Framework
 
-**MIT Blended AI+X PBL – Cinderveil**
+**MIT Blended AI+X PBL – Vulnwright**
 
 Lightweight evaluation harness for measuring LLM ability to classify security vulnerabilities and reduce false positives.
 

@@ -1,14 +1,14 @@
-# Cinderveil
+# Vulnwright
 
 **Hybrid vulnerability detection with LLM-assisted remediation**
 
-Cinderveil is a defensive security toolkit that pairs deterministic scanners with LLM-generated explanations. It finds exposed secrets, SQL injection patterns, typos, and risky dependencies, then turns each finding into clear, actionable remediation guidance—without sending raw credentials to a model.
+Vulnwright is a defensive security toolkit that pairs deterministic scanners with LLM-generated explanations. It finds exposed secrets, SQL injection patterns, typos, and risky dependencies, then turns each finding into clear, actionable remediation guidance—without sending raw credentials to a model.
 
 ---
 
 ## Project Overview
 
-Cinderveil explores how **Large Language Models (LLMs)** can support defensive security work such as vulnerability discovery, security audits, and remediation planning, while accounting for the **risks, limitations, and ethical concerns** that AI systems introduce. It was originally developed in the MIT Blended AI+X Program (Track 3).
+Vulnwright explores how **Large Language Models (LLMs)** can support defensive security work such as vulnerability discovery, security audits, and remediation planning, while accounting for the **risks, limitations, and ethical concerns** that AI systems introduce. It was originally developed in the MIT Blended AI+X Program (Track 3).
 
 ---
 
@@ -44,7 +44,7 @@ Cinderveil explores how **Large Language Models (LLMs)** can support defensive s
 ## Repository Structure
 
 ```
-cinderveil/
+vulnwright/
 │
 ├── .github/workflows/       # CI/CD workflows
 │   └── security-scan.yml    # Week 4: Self-scan on PRs
@@ -111,8 +111,8 @@ python -m pipeline.main --check-tools
 
 ```bash
 # Clone and install
-git clone https://github.com/royalf1ush/cinderveil.git
-cd cinderveil
+git clone https://github.com/royalf1ush/vulnwright.git
+cd vulnwright
 pip install -r requirements.txt
 
 # Run the scanner on a local directory

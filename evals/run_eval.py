@@ -4,7 +4,7 @@ Main evaluation harness for Week 5.
 Usage:
     python -m evals.run_eval --dataset evals/datasets/week5_cases.jsonl --models baseline,ollama:llama3.1:8b --out reports/week5
 
-MIT Blended AI+X PBL - Cinderveil
+MIT Blended AI+X PBL - Vulnwright
 """
 
 import argparse
@@ -236,7 +236,7 @@ def main():
     if verbose:
         print("=" * 60)
         print("Week 5 Evaluation Harness")
-        print("MIT Blended AI+X PBL - Cinderveil")
+        print("MIT Blended AI+X PBL - Vulnwright")
         print("=" * 60)
     
     cases = load_dataset(args.dataset)

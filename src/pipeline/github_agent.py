@@ -5,7 +5,7 @@ Provides automated security scanning of GitHub repositories via:
 - Mode 1: Local path analysis (existing behavior)
 - Mode 2: GitHub repo URL/owner-name analysis (clone + scan)
 
-MIT Blended AI+X PBL - Cinderveil
+MIT Blended AI+X PBL - Vulnwright
 """
 
 import os

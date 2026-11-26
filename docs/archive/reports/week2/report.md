@@ -2,7 +2,7 @@
 
 **Scan ID:** `scan-20251224-083157-4d3248fd`  
 **Timestamp:** 2025-12-24T08:31:57.503240Z  
-**Target:** `C:\Users\jingyi_yang\OneDrive\Escritorio\AI+X\anthropic\cinderveil`
+**Target:** `C:\Users\jingyi_yang\OneDrive\Escritorio\AI+X\anthropic\vulnwright`
 
 ---
 
@@ -32,13 +32,13 @@
 
 - **Severity:** 🟢 Low
 - **Detector:** `codespell`
-- **Location:** `C:\Users\jingyi_yang\OneDrive\Escritorio\AI+X\anthropic\cinderveil\notes\sqli_investigation.md:4`
+- **Location:** `C:\Users\jingyi_yang\OneDrive\Escritorio\AI+X\anthropic\vulnwright\notes\sqli_investigation.md:4`
 
 **Description:** Possible typo found: 'imputs' should be 'inputs, imputes'
 
 **Remediation:**
 
-1. Open the file C:\Users\jingyi_yang\OneDrive\Escritorio\AI+X\anthropic\cinderveil\notes\sqli_investigation.md in a text editor.
+1. Open the file C:\Users\jingyi_yang\OneDrive\Escritorio\AI+X\anthropic\vulnwright\notes\sqli_investigation.md in a text editor.
 2. Locate line 4 and replace 'imputs' with 'inputs, imputes'.
 3. Save the changes to the file.
 

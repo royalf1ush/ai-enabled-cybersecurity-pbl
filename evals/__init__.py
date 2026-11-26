@@ -1,7 +1,7 @@
 """
-Week 5 Evaluation Framework for Cinderveil Pipeline.
+Week 5 Evaluation Framework for Vulnwright Pipeline.
 
-MIT Blended AI+X PBL - Cinderveil
+MIT Blended AI+X PBL - Vulnwright
 """
 
 __version__ = "0.1.0"

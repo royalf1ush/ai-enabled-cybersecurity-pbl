@@ -1,6 +1,6 @@
 # Week 4: GitHub Repository Security Scanner
 
-**MIT Blended AI+X Program - Track 3: Cinderveil**
+**MIT Blended AI+X Program - Track 3: Vulnwright**
 
 ---
 
@@ -263,4 +263,4 @@ pip install requests
 
 ---
 
-*Week 4 - MIT Blended AI+X PBL - Cinderveil*
+*Week 4 - MIT Blended AI+X PBL - Vulnwright*

@@ -1,5 +1,5 @@
 # Security Scanning Pipeline - Dependencies
-# MIT Blended AI+X PBL - Cinderveil
+# MIT Blended AI+X PBL - Vulnwright
 
 # Core detection tools
 codespell>=2.2.0

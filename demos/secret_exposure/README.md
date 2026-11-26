@@ -1,7 +1,7 @@
 # Hardcoded Secrets / Credential Exposure Demonstration
 
 **MIT Blended AI+X Program - Week 3**  
-**Track 3: Cinderveil**
+**Track 3: Vulnwright**
 
 ---
 
@@ -275,4 +275,4 @@ If you discover exposed credentials in a public repository, follow responsible d
 
 ---
 
-*Week 3 - MIT Blended AI+X PBL - Cinderveil*
+*Week 3 - MIT Blended AI+X PBL - Vulnwright*

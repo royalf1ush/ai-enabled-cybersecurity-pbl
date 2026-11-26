@@ -328,9 +328,9 @@ By building these considerations into our tools from the start, we can contribut
 
 ## Source Documents
 
-- **Responsible Innovation Essay:** [`docs/week6-responsible-innovation-essay.md`](https://github.com/royalf1ush/cinderveil/blob/main/docs/week6-responsible-innovation-essay.md)
-- **Ethical Analysis:** [`docs/ethical-analysis.md`](https://github.com/royalf1ush/cinderveil/blob/main/docs/ethical-analysis.md)
+- **Responsible Innovation Essay:** [`docs/week6-responsible-innovation-essay.md`](https://github.com/royalf1ush/vulnwright/blob/main/docs/week6-responsible-innovation-essay.md)
+- **Ethical Analysis:** [`docs/ethical-analysis.md`](https://github.com/royalf1ush/vulnwright/blob/main/docs/ethical-analysis.md)
 
 ---
 
-*MIT Blended AI+X PBL - Track 3: Cinderveil*
+*MIT Blended AI+X PBL - Track 3: Vulnwright*

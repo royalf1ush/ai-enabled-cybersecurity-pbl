@@ -1,7 +1,7 @@
 """
 Model adapters for evaluation harness.
 
-MIT Blended AI+X PBL - Cinderveil
+MIT Blended AI+X PBL - Vulnwright
 """
 
 from .base_adapter import BaseAdapter

@@ -1,6 +1,6 @@
 # Week 3: Vulnerability Identification Guide
 
-**MIT Blended AI+X Program - Track 3: Cinderveil**
+**MIT Blended AI+X Program - Track 3: Vulnwright**
 
 ---
 
@@ -291,4 +291,4 @@ The Week 2 security scanning pipeline already includes:
 
 ---
 
-*Week 3 - MIT Blended AI+X PBL - Cinderveil*
+*Week 3 - MIT Blended AI+X PBL - Vulnwright*

@@ -1,6 +1,6 @@
 # Week 7: Deliverable Decision
 
-**MIT Blended AI+X PBL – Cinderveil (Anthropic Project)**  
+**MIT Blended AI+X PBL – Vulnwright (Anthropic Project)**  
 **Date:** January 2026
 
 ---

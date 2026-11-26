@@ -233,4 +233,4 @@ Understanding how secrets get exposed and how to prevent it.
 
 ---
 
-*MIT Blended AI+X PBL - Track 3: Cinderveil*
+*MIT Blended AI+X PBL - Track 3: Vulnwright*

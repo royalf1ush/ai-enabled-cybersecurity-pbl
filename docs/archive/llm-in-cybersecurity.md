@@ -1,7 +1,7 @@
 # LLMs in Cybersecurity: Assistance and Risks
 
 > **Week 1 Reflection Document**  
-> MIT Blended AI+X Program — Track 3: Cinderveil
+> MIT Blended AI+X Program — Track 3: Vulnwright
 
 This document explores how Large Language Models (LLMs) can assist defensive cybersecurity workflows, alongside the risks and limitations they introduce.
 
@@ -161,4 +161,4 @@ LLMs are powerful assistants for cybersecurity but must be used with appropriate
 
 ---
 
-*This document is part of Week 1 learning materials for the Cinderveil PBL project.*
+*This document is part of Week 1 learning materials for the Vulnwright PBL project.*

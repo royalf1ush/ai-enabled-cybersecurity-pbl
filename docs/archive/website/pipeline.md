@@ -151,7 +151,7 @@ All detectors produce findings in a common format:
 
 ```bash
 # From the project root
-cd cinderveil
+cd vulnwright
 
 # Install dependencies
 pip install -r requirements.txt
@@ -323,11 +323,11 @@ ollama list
 
 ## Source Code
 
-- **Main Pipeline:** [`src/pipeline/main.py`](https://github.com/royalf1ush/cinderveil/blob/main/src/pipeline/main.py)
-- **GitHub Agent:** [`src/pipeline/github_agent.py`](https://github.com/royalf1ush/cinderveil/blob/main/src/pipeline/github_agent.py)
-- **Detectors:** [`src/pipeline/detectors/`](https://github.com/royalf1ush/cinderveil/tree/main/src/pipeline/detectors)
-- **Reporters:** [`src/pipeline/reporters/`](https://github.com/royalf1ush/cinderveil/tree/main/src/pipeline/reporters)
+- **Main Pipeline:** [`src/pipeline/main.py`](https://github.com/royalf1ush/vulnwright/blob/main/src/pipeline/main.py)
+- **GitHub Agent:** [`src/pipeline/github_agent.py`](https://github.com/royalf1ush/vulnwright/blob/main/src/pipeline/github_agent.py)
+- **Detectors:** [`src/pipeline/detectors/`](https://github.com/royalf1ush/vulnwright/tree/main/src/pipeline/detectors)
+- **Reporters:** [`src/pipeline/reporters/`](https://github.com/royalf1ush/vulnwright/tree/main/src/pipeline/reporters)
 
 ---
 
-*MIT Blended AI+X PBL - Track 3: Cinderveil*
+*MIT Blended AI+X PBL - Track 3: Vulnwright*

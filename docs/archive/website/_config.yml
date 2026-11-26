@@ -1,9 +1,9 @@
 # Site settings
-title: Cinderveil
+title: Vulnwright
 description: >-
-  MIT Blended AI+X PBL Project - Track 3: Cinderveil.
+  MIT Blended AI+X PBL Project - Track 3: Vulnwright.
   Building responsible vulnerability detection tools with LLM integration.
-baseurl: "/cinderveil"
+baseurl: "/vulnwright"
 url: ""
 
 # Theme

@@ -1,6 +1,6 @@
 # Hybrid Vulnerability Detection: Combining Deterministic Scanners with LLM-Assisted Remediation
 
-**MIT Blended AI+X PBL – Cinderveil (Anthropic Project)**  
+**MIT Blended AI+X PBL – Vulnwright (Anthropic Project)**  
 **Draft Paper – Week 7**  
 **January 2026**
 

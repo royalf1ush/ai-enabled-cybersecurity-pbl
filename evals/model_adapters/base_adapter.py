@@ -1,7 +1,7 @@
 """
 Base adapter interface for evaluation models.
 
-MIT Blended AI+X PBL - Cinderveil
+MIT Blended AI+X PBL - Vulnwright
 """
 
 from abc import ABC, abstractmethod

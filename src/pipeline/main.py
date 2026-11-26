@@ -4,7 +4,7 @@ Main entrypoint for the Week 2 Security Scanning Pipeline.
 Usage:
     python -m pipeline.main [target_path] [--output-dir reports/week2]
 
-MIT Blended AI+X PBL - Cinderveil
+MIT Blended AI+X PBL - Vulnwright
 """
 
 import argparse
